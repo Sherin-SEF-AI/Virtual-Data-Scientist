@@ -61,3 +61,20 @@ google-generativeai: Google Gemini AI for insights and recommendations
 textblob: Text processing for natural language analysis
 
 wordcloud: Visualize word frequencies in text data
+
+
+
+How to Use
+
+Upload a CSV File: Start by uploading a dataset in CSV format on the "Data Upload & Exploration" page.
+
+Explore and Analyze Features: Dive deep into your dataset through feature importance, correlations, and pairwise plots.
+
+Build Models: Train a machine learning model suited to your problem (classification or regression) and evaluate its performance.
+
+Run Advanced Analysis: Apply dimensionality reduction techniques and detect anomalies in your dataset.
+
+AI-Powered Insights: Utilize Google Gemini AI to receive insights, feature engineering suggestions, and model recommendations.
+
+Generate Report: Generate and download an HTML report summarizing the entire analysis process.
+
